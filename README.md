@@ -8,3 +8,7 @@ python main.py time_step
 ```
 
 Where the time step indicates the interval between solution guesses.
+
+
+## GeoGebra Version
+For the GeoGebra version see [this page](geogebra_version.md)
